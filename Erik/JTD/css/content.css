@@ -1,0 +1,43 @@
+.facebook {
+  padding-left: 70px;
+}
+.JTD-description{
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 22px;
+  font-family: 'bangers',sans-serif;
+  text-shadow: 3px 3px 25px #000000
+}
+.tele{
+  font-size: 35px;
+  font-family: "bangers", sans-serif;
+  color: #0088cc;
+  text-shadow: 0px 2px 15px #000000, 0px 2px 15px #000000;
+  overflow: hidden;
+}
+
+
+.discord{
+  font-size: 35px;
+  font-family: "bangers",sans-serif;
+  color: #7289da;
+  text-shadow: 0px 2px 15px #000000, 0px 2px 15px #000000;
+  position:absolute;
+  top: 172px;
+  left:920px;
+}
+.app2{
+position: absolute;
+top:242px;
+left: 680px;
+}
+.app3{
+  position: absolute;
+  top: 236px;
+  left:980px;
+}
+.twitter-timeline{
+  position:absolute;
+  top: 343px;
+  left: 710px;
+}

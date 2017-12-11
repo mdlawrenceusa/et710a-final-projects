@@ -1,0 +1,23 @@
+.heading {
+  text-align: center;
+  font-family: "bangers"
+}
+
+.heading {
+  text-shadow: 3px 3px 25px #000000, 0px 0px 20px #33393d
+}
+
+.description{
+  font-family: 'Anton', sans-serif;
+    text-align: center;
+  font-size: 16px
+}
+.download{
+  font-family: 'Anton', sans-serif;
+    text-align: center;
+  font-size: 16px
+
+}
+.download {
+  text-shadow: 3px 0px 20px #fefefe, 0px 0px 20px #33393d
+}

@@ -1,0 +1,13 @@
+.info{
+  font-size: 20px;
+  text-align: center;
+  font-family: "Anton" monospace;
+
+
+}
+.info2{
+  font-size: 20px;
+  text-align: center;
+  font-family: "Anton" inherit;
+  padding-top: 50px;
+}

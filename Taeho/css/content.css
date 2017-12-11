@@ -1,0 +1,54 @@
+
+.card-tabs .card-divider {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 15px 20px;
+background-color: #fefefe;
+
+}
+
+.card-tabs .card-divider h1, .card-tabs .card-divider h2, .card-tabs .card-divider h3, .card-tabs .card-divider h4, .card-tabs .card-divider h5, .card-tabs .card-divider h6 {
+  margin-bottom: 0;
+
+
+}
+
+.card-tabs .card-divider .fa {
+  position: relative;
+  margin-right: 0;
+}
+
+.card-tabs .tabs {
+  padding-top: 4px;
+
+}
+
+.card-tabs .tabs,
+.card-tabs .tabs a {
+  background: none;
+}
+
+.card-tabs .tabs a {
+text-align: center;
+  padding: 30;
+  margin: 0 10px;
+  font-size: 13px;
+  color: black;
+}
+
+.card-tabs .tabs a:hover,
+.card-tabs .tabs .is-active a {
+  color: #8a8a8a;
+}
+
+.card-tabs .tabs-panel {
+  padding: 0;
+
+}
